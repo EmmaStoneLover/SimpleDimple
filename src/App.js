@@ -23,7 +23,7 @@ export default function App() {
       <div id="content">
         <main>
           <Router>
-            <Header setSideBar={setSideBar} />
+            <Header setSideBar={setSideBar} URL={URL} />
             <SidBar
               sideBar={sideBar}
               setSideBar={setSideBar}

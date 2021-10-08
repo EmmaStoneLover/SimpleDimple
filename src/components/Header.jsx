@@ -34,10 +34,14 @@ export default function Header({ setSideBar }) {
             SimpleDimple
           </Typography>
           <div>
-            <Link to="/" exact="true" className={classes.link}>
+            <Link to="SimpleDimple/" exact="true" className={classes.link}>
               <Button color="inherit">Home</Button>
             </Link>
-            <Link to="/second" exact="true" className={classes.link}>
+            <Link
+              to="SimpleDimple/second"
+              exact="true"
+              className={classes.link}
+            >
               <Button color="inherit">Second</Button>
             </Link>
           </div>

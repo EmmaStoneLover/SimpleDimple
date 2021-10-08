@@ -9,7 +9,7 @@ export default function MyRoutes({ setPrimaryMod, textDay, setTextDay, URL }) {
   return (
     <div id="router">
       <Switch>
-        <Route path="/" exact>
+        <Route path="SimpleDimple/" exact>
           <Paper elevation={0}>
             <Home
               setPrimaryMod={setPrimaryMod}
@@ -18,12 +18,12 @@ export default function MyRoutes({ setPrimaryMod, textDay, setTextDay, URL }) {
             />
           </Paper>
         </Route>
-        <Route path="/second" exact>
+        <Route path="SimpleDimple/second" exact>
           <Paper elevation={0}>
             <Second setPrimaryMod={setPrimaryMod} URL={URL} />
           </Paper>
         </Route>
-        <Route path="/login" exact>
+        <Route path="SimpleDimple/login" exact>
           <Paper elevation={0}>
             <Login URL={URL} />
           </Paper>
