@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/SimpleDimple/static/css/main.22ee430f.chunk.css",
-    "main.js": "/SimpleDimple/static/js/main.8854b55c.chunk.js",
-    "main.js.map": "/SimpleDimple/static/js/main.8854b55c.chunk.js.map",
+    "main.css": "/SimpleDimple/static/css/main.d9423889.chunk.css",
+    "main.js": "/SimpleDimple/static/js/main.27d74e3c.chunk.js",
+    "main.js.map": "/SimpleDimple/static/js/main.27d74e3c.chunk.js.map",
     "runtime-main.js": "/SimpleDimple/static/js/runtime-main.8d1232c3.js",
     "runtime-main.js.map": "/SimpleDimple/static/js/runtime-main.8d1232c3.js.map",
-    "static/js/2.0f49cd25.chunk.js": "/SimpleDimple/static/js/2.0f49cd25.chunk.js",
-    "static/js/2.0f49cd25.chunk.js.map": "/SimpleDimple/static/js/2.0f49cd25.chunk.js.map",
+    "static/js/2.8e2f50c4.chunk.js": "/SimpleDimple/static/js/2.8e2f50c4.chunk.js",
+    "static/js/2.8e2f50c4.chunk.js.map": "/SimpleDimple/static/js/2.8e2f50c4.chunk.js.map",
     "index.html": "/SimpleDimple/index.html",
-    "static/css/main.22ee430f.chunk.css.map": "/SimpleDimple/static/css/main.22ee430f.chunk.css.map",
-    "static/js/2.0f49cd25.chunk.js.LICENSE.txt": "/SimpleDimple/static/js/2.0f49cd25.chunk.js.LICENSE.txt",
+    "static/css/main.d9423889.chunk.css.map": "/SimpleDimple/static/css/main.d9423889.chunk.css.map",
+    "static/js/2.8e2f50c4.chunk.js.LICENSE.txt": "/SimpleDimple/static/js/2.8e2f50c4.chunk.js.LICENSE.txt",
     "static/media/emma.6d3e9e36.jpg": "/SimpleDimple/static/media/emma.6d3e9e36.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8d1232c3.js",
-    "static/js/2.0f49cd25.chunk.js",
-    "static/css/main.22ee430f.chunk.css",
-    "static/js/main.8854b55c.chunk.js"
+    "static/js/2.8e2f50c4.chunk.js",
+    "static/css/main.d9423889.chunk.css",
+    "static/js/main.27d74e3c.chunk.js"
   ]
 }
