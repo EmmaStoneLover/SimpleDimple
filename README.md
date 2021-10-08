@@ -1,5 +1,0 @@
-# SimpleDimple
-
-### нет
-
-# PopIt
