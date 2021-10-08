@@ -15,7 +15,7 @@ export default function App() {
   const [primaryMod, setPrimaryMod] = useState(firstColor)
   const [textDay, setTextDay] = useState('Some text')
 
-  const URL = 'https://emmastonenodejs.herokuapp.com'
+  const URL = 'https://emmastonenodejs.herokuapp.com/SimpleDimple'
   // const URL = 'http://localhost:8000'
 
   return (
