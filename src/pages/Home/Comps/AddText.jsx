@@ -1,0 +1,52 @@
+import React from 'react'
+import { Typography } from '@mui/material'
+import MyBox from '../../../components/MyBox'
+import emma from './emma.jpg'
+
+export default function AddText() {
+  // const [list, setList] = useState([{ id: 1, text: 'Text example' }])
+  // const [text, setText] = useState('')
+  // function addTextEvent(event) {
+  //   event.preventDefault()
+  //   setList([...list, { id: Date.now(), text: text }])
+  // }
+
+  return (
+    <>
+      <MyBox p="0" mb={15}>
+        <img src={emma} alt="Aboba" width="100%" style={{ marginBottom: -5 }} />
+      </MyBox>
+      <Typography>Text text ttt...</Typography>
+    </>
+  )
+
+  // return (
+  //   <>
+  //     <MyBox>
+  //       <form onSubmit={addTextEvent}>
+  //         <TextField
+  //           fullWidth
+  //           value={text}
+  //           variant="outlined"
+  //           label="Вставить текст"
+  //           onChange={(event) => setText(event.target.value)}
+  //         />
+  //       </form>
+  //     </MyBox>
+  //     <br />
+  //     <MyBox>
+  //       {list.map((item) => {
+  //         return (
+  //           <Typography
+  //             key={item.id}
+  //             variant="h6"
+  //             style={{ wordBreak: 'break-all' }}
+  //           >
+  //             {item.text}
+  //           </Typography>
+  //         )
+  //       })}
+  //     </MyBox>
+  //   </>
+  // )
+}
